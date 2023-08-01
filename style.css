@@ -1,0 +1,20 @@
+label{
+    display:block;
+}
+form{
+    text-align: center;
+    background-color: antiquewhite;
+    margin:150px 200px 150px 200px;
+}
+h1{
+    text-align: center;
+}
+#submit{
+    padding:10px;
+}
+input[type=submit]{
+    background-color: aqua;
+}
+input[type=submit]:hover{
+    background-color: pink;
+}
